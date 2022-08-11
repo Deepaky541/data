@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "country": "india",
+    "city": "delhi",
+    "population": 12310
+  },
+  {
+    "id": 2,
+    "country": "srilanka",
+    "city": "columbo",
+    "population": 12311
+  },
+  {
+      "id":3,
+      "country": "pakistan",
+      "city":"karachi",
+      "population":12312
+  },
+  {
+      "id":4,
+      "country": "india",
+      "city":"mumbai",
+      "population":12313
+  }
+]
